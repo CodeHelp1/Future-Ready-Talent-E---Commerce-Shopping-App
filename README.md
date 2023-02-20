@@ -41,3 +41,13 @@ Static Web Apps, Web Apps
 ![Screenshot 2023-02-20 221406](https://user-images.githubusercontent.com/113056235/220163857-62f8dcce-6db5-477b-b90f-aafb4e949cdd.png)
 
 ![Screenshot 2023-02-20 221431](https://user-images.githubusercontent.com/113056235/220163887-647e6626-4b78-4249-baf8-109753460a2a.png)
+
+# About Page
+
+![Screenshot 2023-02-20 221458](https://user-images.githubusercontent.com/113056235/220164090-0c24563d-f463-41ef-bc8a-5b87114da76a.png)
+
+![Screenshot 2023-02-20 221528](https://user-images.githubusercontent.com/113056235/220164117-e3abbbbd-92f7-4367-81ae-91671afa27c8.png)
+
+![Screenshot 2023-02-20 221545](https://user-images.githubusercontent.com/113056235/220164128-1e5793a9-5443-4fd0-99aa-616d5c1e7403.png)
+
+![Screenshot 2023-02-20 221614](https://user-images.githubusercontent.com/113056235/220164136-9b33833e-9e28-4c89-9794-3664c7913f7c.png)
