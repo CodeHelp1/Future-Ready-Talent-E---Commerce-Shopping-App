@@ -23,5 +23,5 @@ A small business wants to build a smart and elegantly designed website as the on
 
 I have created an online store named " SPRYSTORE " using bootstrap framework, HTML, CSS, and JAVASCRIPT. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like Home , About , Contact, banner text slider, hover effects, smooth scrolling navigation, effect and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw customers' attention and helps the seller to showcase their best products. This way a customer can get any product at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
 
-###Primary Azure Technology : 
+### Primary Azure Technology : 
 Static Web Apps, Web Apps
