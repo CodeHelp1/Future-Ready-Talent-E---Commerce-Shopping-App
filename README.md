@@ -25,3 +25,15 @@ I have created an online store named " SPRYSTORE " using bootstrap framework, HT
 
 ### Primary Azure Technology : 
 Static Web Apps, Web Apps
+
+# Home Page
+
+![Screenshot 2023-02-20 221110](https://user-images.githubusercontent.com/113056235/220163339-6eeb9f8d-c595-4452-9c31-9926593592b5.png)
+
+![Screenshot 2023-02-20 221144](https://user-images.githubusercontent.com/113056235/220163368-29ee1827-3ba6-4dc7-a42c-82afc72396f6.png)
+
+![Screenshot 2023-02-20 221227](https://user-images.githubusercontent.com/113056235/220163395-f5a09bbf-78fb-46a3-9c10-1d633b95d324.png)
+
+![Screenshot 2023-02-20 221302](https://user-images.githubusercontent.com/113056235/220163434-3b3fbd8d-516b-4af9-97b6-19d2f095be2f.png)
+
+![Screenshot 2023-02-20 221330](https://user-images.githubusercontent.com/113056235/220163460-d12d982e-d84b-4174-a30c-be381341d173.png)
