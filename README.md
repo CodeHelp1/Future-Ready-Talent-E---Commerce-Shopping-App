@@ -37,3 +37,7 @@ Static Web Apps, Web Apps
 ![Screenshot 2023-02-20 221302](https://user-images.githubusercontent.com/113056235/220163434-3b3fbd8d-516b-4af9-97b6-19d2f095be2f.png)
 
 ![Screenshot 2023-02-20 221330](https://user-images.githubusercontent.com/113056235/220163460-d12d982e-d84b-4174-a30c-be381341d173.png)
+
+![Screenshot 2023-02-20 221406](https://user-images.githubusercontent.com/113056235/220163857-62f8dcce-6db5-477b-b90f-aafb4e949cdd.png)
+
+![Screenshot 2023-02-20 221431](https://user-images.githubusercontent.com/113056235/220163887-647e6626-4b78-4249-baf8-109753460a2a.png)
