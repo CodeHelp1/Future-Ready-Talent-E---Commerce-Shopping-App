@@ -1,4 +1,4 @@
-# Microsoft-Future-Ready-Talent Project By Rahul Kumar
+# This is Final FRT Project By Rahul Kumar
 
  This is a E-commerce Front End website design 
 
